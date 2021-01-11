@@ -21,6 +21,7 @@ public class Main {
 
     static int a;
     static int b;
+    static int x;
     
     public static void main(String[] args) {
         a = 0;
